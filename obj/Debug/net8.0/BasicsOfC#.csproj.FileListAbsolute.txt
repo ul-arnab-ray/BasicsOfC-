@@ -1,0 +1,15 @@
+D:\.Net\C#\BasicsOfC#\bin\Debug\net8.0\BasicsOfC#.exe
+D:\.Net\C#\BasicsOfC#\bin\Debug\net8.0\BasicsOfC#.deps.json
+D:\.Net\C#\BasicsOfC#\bin\Debug\net8.0\BasicsOfC#.runtimeconfig.json
+D:\.Net\C#\BasicsOfC#\bin\Debug\net8.0\BasicsOfC#.dll
+D:\.Net\C#\BasicsOfC#\bin\Debug\net8.0\BasicsOfC#.pdb
+D:\.Net\C#\BasicsOfC#\obj\Debug\net8.0\BasicsOfC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\C#\BasicsOfC#\obj\Debug\net8.0\BasicsOfC#.AssemblyInfoInputs.cache
+D:\.Net\C#\BasicsOfC#\obj\Debug\net8.0\BasicsOfC#.AssemblyInfo.cs
+D:\.Net\C#\BasicsOfC#\obj\Debug\net8.0\BasicsOfC#.csproj.CoreCompileInputs.cache
+D:\.Net\C#\BasicsOfC#\obj\Debug\net8.0\BasicsOfC#.sourcelink.json
+D:\.Net\C#\BasicsOfC#\obj\Debug\net8.0\BasicsOfC#.dll
+D:\.Net\C#\BasicsOfC#\obj\Debug\net8.0\refint\BasicsOfC#.dll
+D:\.Net\C#\BasicsOfC#\obj\Debug\net8.0\BasicsOfC#.pdb
+D:\.Net\C#\BasicsOfC#\obj\Debug\net8.0\BasicsOfC#.genruntimeconfig.cache
+D:\.Net\C#\BasicsOfC#\obj\Debug\net8.0\ref\BasicsOfC#.dll
