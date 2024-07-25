@@ -1,21 +1,22 @@
 ﻿// using System;
 using Fundamentals;
 using GpaScore;
+using GradeScore;
 
-namespace GradeScore
+// namespace GradeScore
+// {
+class Program
 {
-        class Program
+        static void Main(string[] args)
         {
-                static void Main(string[] args)
-                {
 
-                        // fundamentals_CSharp.c_sharp();
-                        CalcStudentGrade.CalcGrade();
+                // fundamentals_CSharp.c_sharp();
+                CalcStudentGrade.CalcGrade();
 
-                        CalcGpa.GpaScore();
-                }
+                CalcGpa.GpaScore();
         }
 }
+// }
 
 
 
