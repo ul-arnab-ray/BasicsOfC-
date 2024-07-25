@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net\\C#\\BasicsOfC#\\BasicsOfC#.csproj",
+      "projectUniqueName": "D:\\.Net\\arnab-dotnet-roadmap\\C#\\Project\\BasicsOfC#\\BasicsOfC#.csproj",
       "projectName": "BasicsOfC#",
-      "projectPath": "D:\\.Net\\C#\\BasicsOfC#\\BasicsOfC#.csproj",
+      "projectPath": "D:\\.Net\\arnab-dotnet-roadmap\\C#\\Project\\BasicsOfC#\\BasicsOfC#.csproj",
       "packagesPath": "C:\\Users\\Arnabjyoti Ray\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net\\C#\\BasicsOfC#\\obj\\",
+      "outputPath": "D:\\.Net\\arnab-dotnet-roadmap\\C#\\Project\\BasicsOfC#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arnabjyoti Ray\\AppData\\Roaming\\NuGet\\NuGet.Config"

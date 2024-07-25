@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BasicsOfC_
-build_property.ProjectDir = D:\.Net\C#\BasicsOfC#\
+build_property.ProjectDir = D:\.Net\arnab-dotnet-roadmap\C#\Project\BasicsOfC#\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
