@@ -5,6 +5,8 @@ using GradeScore;
 using Methods_Classes_Basics;
 using IfElseConcept;
 using Array_Loops;
+using NameingConventions;
+using ArrayProblemPractice;
 
 // namespace GradeScore
 // {
@@ -18,7 +20,9 @@ class Program
                 // CalcGpa.GpaScore();
                 // Methods_Classes.callMethod();
                 // IfElse.IfElse_run();
-                Array_Loops_Concept.ArrayLoop();
+                // Array_Loops_Concept.ArrayLoop();
+                // TypesofConventions.conventions();
+                ArrayProblemPractice1.StudentGrade();
         }
 }
 // }
