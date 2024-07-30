@@ -7,6 +7,9 @@ using IfElseConcept;
 using Array_Loops;
 using NameingConventions;
 using ArrayProblemPractice;
+using EvaluateExpressions;
+using CodeBlocksConvention;
+using SwitchStatement;
 
 // namespace GradeScore
 // {
@@ -20,9 +23,12 @@ class Program
                 // CalcGpa.GpaScore();
                 // Methods_Classes.callMethod();
                 // IfElse.IfElse_run();
-                // Array_Loops_Concept.ArrayLoop();
+                Array_Loops_Concept.ArrayLoop();
                 // TypesofConventions.conventions();
-                ArrayProblemPractice1.StudentGrade();
+                // ArrayProblemPractice1.StudentGrade();
+                // EvaluateBooleanExpression.BooleanExpression();
+                // CodeBlocksRules.codeBlocks();
+                // SwitchProblems.SwitchImplementation();
         }
 }
 // }
